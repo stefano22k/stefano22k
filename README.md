@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Stefano</h1>
-<h3 align="center">Student passionate about programming</h3>
+<h1 align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=16FF00&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hello+there+!;+I'm+Stefano+;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
+</h1>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stefano22k&label=Profile%20views&color=0e75b6&style=flat" alt="stefano22k" /> </p>
