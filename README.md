@@ -20,7 +20,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=java,eclipse,git,mysql,go,)](https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=java,eclipse,git,mysql,golang,)](https://skillicons.dev">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefano22k&hide_progress=true&theme=highcontrast"/>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=stefano22k&theme=highcontrast&show_icons=true"/>
