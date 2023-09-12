@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/stef4no_1" target="blank"><img src="https://img.shields.io/twitter/follow/stef4no_1?logo=twitter&style=for-the-badge" alt="stef4no_1" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Networking, FullStack MERN**
+- 🌱 I’m currently learning **Java, Networking, FullStack MERN, Go**
 
 - 📫 How to reach me **stragastefano@gmail.com**
 
@@ -20,7 +20,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=java,eclipse,git,mysql,)](https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=java,eclipse,git,mysql,go,)](https://skillicons.dev">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefano22k&hide_progress=true&theme=highcontrast"/>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=stefano22k&theme=highcontrast&show_icons=true"/>
