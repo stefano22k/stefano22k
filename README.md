@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/stef4no_1" target="blank"><img src="https://img.shields.io/twitter/follow/stef4no_1?logo=twitter&style=for-the-badge" alt="stef4no_1" /></a> </p>
 
-- 🌱 I’m currently learning **PHP, Networking, Linux, MySQL**
+- 🌱 I’m currently learning **PHP, Network Infrastructure, Linux, MySQL**
 
 - 📫 How to reach me **stragastefano@gmail.com**
 
